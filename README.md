@@ -1,5 +1,7 @@
 **Note:** *This project is not open source. This repo was made to track feature request, suggestions and/or bug submission. Thanks for helping.*
 
+# Path of Exile - xLive
+
 *Path of Exile Trade Live Search for mobile.*
 
 If you're an Exile who wants to keep your live searches on, even if you're asleep, AFK, or doing something else other than playing Path of Exile, then this app is for you.
