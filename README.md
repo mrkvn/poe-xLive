@@ -38,7 +38,7 @@ Query ID is the last characters after slash (/). i.e. O683lOCE
 ## Disclaimer:
 This app is not, in any way, affiliated with Path of Exile or Grinding Gear Games. This is solely developed by gamers for gamers.
 
-## Support Me
+## Support <img src="heart.png" width="20" alt="android">
 <p><a href="https://patreon.com/mrkvn"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmrkvn%26type%3Dpatrons&style=for-the-badge" /> </a></p>
 
 [Paypal](https://paypal.me/mrkvn69)
