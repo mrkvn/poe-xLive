@@ -15,6 +15,8 @@ Available on: <img src="android-character-symbol.png" width="20" alt="android">
 
 - You need to use an app that can sync clipboard between your mobile device and your PC. This is useful for copying query ID from PC and pasting it to the app. This is particularly required when you copy the whisper text from the app to paste it to PC or in-game as you can't type manually the whole text or is not practical at all for that matter.
 
+- In the Live tab where items are displayed, maximum of 50 items are displayed at any given time. If maximum is reached, old items will be removed to include new ones. You can always delete all items to reset the display.
+
 ## Usage:
 - Copy and Paste your PoE session ID to the app. If you're not familiar on how to get your session ID, there are guides on Youtube or search for how to get it.
 
